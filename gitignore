@@ -1,0 +1,17 @@
+*.synctex.gz
+*.log
+*.bbl
+*.blg
+*.out
+*.aux
+*.Rdata
+*.RData
+*.Rda
+*.rds
+*.rda
+*.Rds
+*.Rhistory
+*.Rapp.history
+*Rplots.pdf
+*.DS_Store
+/notposting
